@@ -1,0 +1,112 @@
+http://www.smashingmagazine.com/2009/08/20/typographic-design-survey-best-practices-from-the-best-blogs/
+
+http://informationarchitects.jp/100e2r/
+
+
+let the text breath (and readers too!):
+
+Body font size should be between 13-16px. (16 is actually better, even if it takes a little while to get accostumed it )
+
+Headlines should be sized from next fibonacci value (21px)
+
+Line-height is set with reference to this (1.5 is standard in typography books)
+
+word spacing and letter spacing can also be tweaked... both for overall golden proportionality and to give a unique identity (with just the type)
+
+
+body line-length should fall into the optimal 55-75 charatcters (10- 15 words per line) per line
+(most sites reviewed from the article go up to 90ish) maybe this is good for us since we do have long pages.
+
+some lines horiz/vert are usefull also see sibeboxes (no sidebars though it's more like an appended thing within the paragraph, vertically it should always fit in 2/3 of the screen height) considerations below in COPY
+
+another metrics related to the 2 above is the line-length / line-height figure
+
+gutter (first line indents)
+
+paragraphs padding (borders) are crucial vor the final 'rythm' if the UI.
+
+Lists: bullets are over (no way!), maybe a custom background gradient ...
+
+Color scheme:
+
+red yellow green from the logo should be generalized 
+
+
+links: 
+
+Footer: the large footer school can really find good application on epossite; list explicitly all documents (see http://www.activecollab.com/)
+
+copy:
+identify those paragraphs which are to be moved out of the main body; i.e. those insights that can go in sideboxes. this shortens the global and also adds variations to the graphical layout.
+
+Main banner: the EPOS logo would be bigger 100% content width in my opinion
+
+is the logo set or is it just another quickie for the previous deadline?!
+
+The main tagline really needs work
+
+NAvigation: (currently 9 confusing items)
+Home -> goes into the logo
+Objectives ->
+Concept ->
+PArtners ->
+
+Impact -> 
+
+e-SCience->
+
+Governance->
+Descrive i vari board direttivi 
+
+Links-> would be better to have relevant links side by side each page content
+
+Contacts-> can be linked in sidebar footer on each page
+
+
+Final: (see nice styling @ http://www.shayhowe.com/resource/writing-user-friendly-content/)
+carsonified.com
+
+Vision
+
+Partners (&&||participate)
+
+Timeline
+
+managing board / structure
+
+Results/outcome (e-science)
+
+news
+
+
+
+maximum five items in the main bar,
+
+
+Homepage: you need a fast appealing prexy to explain what Epos is in 4main points (with 3-4 subpoints each) and a global mind map to navigate.
+
+
+Rss (ported to twitter, facebook, email newsletter) and site Search do add a lot respectability to the site; ne
+
+
+SEO considerations: Tagline and navigation item (page adrresses and titles)
+
+
+il final step nella progettazione sarebbe:
+Analisi dei 'personaggi' e loro scenari di utilizzo ....
+
+Problema globale: i personaggi coinvolti sono accustomed a siti tipo cordis, FP7 che sono manuali di inusabilità e di USerExperience orribili; fare una cosa fatta bene rischia di scioccarli e farli sentire disorientati, anche perchè sono probabilmente 50++.
+
+In generale hanno color schemes sul bluino azzurrino
+
+Ancora meglio coadiuvare il tutto con 2-3 sessioni di user testing del prototipo
+(scenari e task da valutare ??!?)
+
+
+
+the overall visual organization is poor, small fonts, no spacing etc; but before working on the layout the whole content should be reprased: 
+
+
+navigation is abstract and unclear, too many buttons on one level
+
+before anythingthough we need to map content as a user would do -> card sorting
